@@ -4,7 +4,19 @@ Hi 👋 My name is Lucas Gasparello
 Embedded Software Engineer
 --------------------------
 
-Electrical engineer and Machine Learning specialist. Experience in electronics, embedded systems, software, artificial intelligence and project management. Skills: -Hardware Development -Embedded Software/Firmware Development: Arm, ESP, Raspberry -Communication Technology Integration: GPS, LoRa, GPRS/GSM, BLE, Wi-Fi -Interfaces: RS232, RS485, OneWire, CAN -Backend/API Development in .Net Core -Programming Languages: C, C++, C#, .NET, Python -Databases: SQL, NoSQL, MongoDB -Cloud Computing: AWS, Azure -Agile Methodologies -Project Management Tools
+Electrical engineer and Machine Learning specialist. Experience in electronics, embedded systems, software, artificial intelligence and project management. 
+
+#### Skills 
+* Hardware Development 
+* Embedded Software/Firmware Development: Arm, ESP, Raspberry 
+* Communication Technology Integration: GPS, LoRa, GPRS/GSM, BLE, Wi-Fi 
+* Interfaces: RS232, RS485, OneWire, CAN -Backend/API Development in .Net Core 
+* Programming Languages: C, C++, C#, .NET, Python
+* Databases: SQL, NoSQL, MongoDB -Cloud Computing: AWS, Azure
+* Agile Methodologies
+* Project Management Tools
+
+#### General Information
 
 * 🌍  I'm based in Londrina, Paraná, Brasil
 * ✉️  You can contact me at [lucashgasparello@gmail.com](mailto:lucashgasparello@gmail.com)
